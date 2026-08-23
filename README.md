@@ -66,7 +66,7 @@ Backend-разработчик, в основном работаю с **Go и C+
 ---
 
 <p align="center">
-  <img src="./melstroy.gif" width="420" />
+  <img src="./mells-troy-chekushka.gif" width="420" />
 </p>
 
 ---
