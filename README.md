@@ -1,8 +1,17 @@
-<h1 align="center">
-  NOT PYTHON 
-  <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/>
-</h1>
+# Backend Developer
 
-Здравствуйте, Александр Сергеевич! А что вы тут делаете?
+> Разрабатываю backend-сервисы, автоматизацию и инфраструктуру.
 
-https://github.com/user-attachments/assets/1bed5c7d-fdd5-41ab-9c64-3a74d9519d73
+### Stack
+
+<p>
+  <img src="https://skillicons.dev/icons?i=go,python,c,cpp,cs,kotlin,postgres,docker,kubernetes,linux,bash,git" />
+</p>
+
+### Работаю с
+
+Backend · REST API · Microservices · WebSocket · SSH · PostgreSQL · Docker · Kubernetes
+
+### Контакты
+
+[Telegram](https://t.me/QGWinniy) · [GitHub](https://github.com/QGWinniy) · `georgik05@bk.ru`
