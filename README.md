@@ -63,13 +63,7 @@ Backend-разработчик, в основном работаю с **Go и C+
 * Настраивал **CI/CD в GitLab**
 * Писал приложения на **C/C++ и Qt5**
 
----
 
-<p align="center">
-  <img src="./mells-troy-chekushka.gif" width="420" />
-</p>
-
----
 
 ### 📫 Контакты
 
@@ -86,6 +80,9 @@ Backend-разработчик, в основном работаю с **Go и C+
   <code>georgik05@bk.ru</code>
 </p>
 
+<p align="center">
+  <img src="./mells-troy-chekushka.gif" width="100" />
+</p>
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:21262D,50:161B22,100:0D1117&height=120&section=footer&animation=fadeIn" />
 </p>
