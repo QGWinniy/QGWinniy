@@ -1,5 +1,3 @@
-# GitHub Profile README
-
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:161B22,100:21262D&height=210&section=header&text=QGWinniy&fontSize=55&fontColor=FFFFFF&animation=fadeIn&fontAlignY=35" />
 </p>
